@@ -20,18 +20,12 @@
       "vermogen_behoud_eind_pct": 88.9,
       "vermogen_behoud_25j_pct": 90.6,
       "temp_coefficient": -0.26,
-      "richtprijs_eur": 105,
+      "richtprijs_eur": 120,
       "prijs_datum": "2026-07-21",
       "prijs_omvat": "richtprijs per paneel, 0% btw bij levering voor een woning, excl. omvormer en installatie",
       "product_url": "https://aikosolar.com/",
       "opmerkingen": "Back-contact (ABC) cellen: alle contacten zitten aan de achterkant, dus geen zichtbare lijntjes en een strak zwart uiterlijk. Zeer hoog rendement, goede schaduwtolerantie en dubbel 2 mm glas. Productgarantie is bij registratie via erkende installateurs vaak uit te breiden tot 25 jaar.",
       "aanbiedingen": [
-        {
-          "winkel": "Zonnepanelenkopen.com",
-          "prijs_eur": 105,
-          "url": "https://www.zonnepanelenkopen.com/zonnepanelen/aiko/aiko-neostar-gen-2s-455wp-glas-glas-all-black",
-          "datum": null
-        },
         {
           "winkel": "GroothandelSolar",
           "prijs_eur": 140,
@@ -63,7 +57,7 @@
       "vermogen_behoud_eind_pct": 87.4,
       "vermogen_behoud_25j_pct": 89.4,
       "temp_coefficient": -0.29,
-      "richtprijs_eur": 70,
+      "richtprijs_eur": 60,
       "prijs_datum": "2026-07-21",
       "prijs_omvat": "richtprijs per paneel, 0% btw bij levering voor een woning, excl. omvormer en installatie",
       "product_url": "https://www.jinkosolar.com/",
@@ -84,7 +78,7 @@
         {
           "winkel": "Stralend Groen",
           "prijs_eur": 72,
-          "url": "https://www.stralendgroen.nl/product/jinko-solar-tiger-neo-all-black-n-type-440wp-palletkorting/",
+          "url": "https://www.stralendgroen.nl/en/product/jinko-solar-tiger-neo-all-black-n-type-440wp/",
           "datum": null
         }
       ]
@@ -106,7 +100,7 @@
       "vermogen_behoud_eind_pct": 87.4,
       "vermogen_behoud_25j_pct": 89.4,
       "temp_coefficient": -0.29,
-      "richtprijs_eur": 65,
+      "richtprijs_eur": 75,
       "prijs_datum": "2026-07-21",
       "prijs_omvat": "richtprijs per paneel, 0% btw bij levering voor een woning, excl. omvormer en installatie",
       "product_url": "https://www.jasolar.com/",
@@ -137,7 +131,7 @@
       "vermogen_behoud_eind_pct": 88.9,
       "vermogen_behoud_25j_pct": 88.9,
       "temp_coefficient": -0.29,
-      "richtprijs_eur": 80,
+      "richtprijs_eur": 68,
       "prijs_datum": "2026-07-21",
       "prijs_omvat": "richtprijs per paneel, 0% btw bij levering voor een woning, excl. omvormer en installatie",
       "product_url": "https://www.longi.com/",
@@ -168,7 +162,7 @@
       "vermogen_behoud_eind_pct": 87.4,
       "vermogen_behoud_25j_pct": 89.4,
       "temp_coefficient": -0.3,
-      "richtprijs_eur": 72,
+      "richtprijs_eur": 68,
       "prijs_datum": "2026-07-21",
       "prijs_omvat": "richtprijs per paneel, 0% btw bij levering voor een woning, excl. omvormer en installatie",
       "product_url": "https://www.trinasolar.com/",
@@ -211,7 +205,7 @@
       "vermogen_behoud_eind_pct": 87.4,
       "vermogen_behoud_25j_pct": 89.4,
       "temp_coefficient": -0.3,
-      "richtprijs_eur": 79,
+      "richtprijs_eur": 78,
       "prijs_datum": "2026-07-21",
       "prijs_omvat": "richtprijs per paneel, 0% btw bij levering voor een woning, excl. omvormer en installatie",
       "product_url": "https://www.dmegcsolar.com/",
@@ -248,7 +242,7 @@
       "vermogen_behoud_eind_pct": 87.4,
       "vermogen_behoud_25j_pct": 89.4,
       "temp_coefficient": -0.29,
-      "richtprijs_eur": 68,
+      "richtprijs_eur": 119,
       "prijs_datum": "2026-07-21",
       "prijs_omvat": "richtprijs per paneel, 0% btw bij levering voor een woning, excl. omvormer en installatie",
       "product_url": "https://www.csisolar.com/",
@@ -279,18 +273,12 @@
       "vermogen_behoud_eind_pct": 92,
       "vermogen_behoud_25j_pct": 92,
       "temp_coefficient": -0.24,
-      "richtprijs_eur": 110,
+      "richtprijs_eur": 120,
       "prijs_datum": "2026-07-21",
       "prijs_omvat": "richtprijs per paneel, 0% btw bij levering voor een woning, excl. omvormer en installatie",
       "product_url": "https://www.recgroup.com/",
       "opmerkingen": "Premium HJT-paneel uit de Alpha Pure-familie, loodvrij gebouwd en met de beste warmteprestatie van deze vergelijker (temperatuurcoëfficiënt -0,24%/°C). De 430 Wp-variant haalt tot 22,3% rendement. Productgarantie is via een REC Certified-installateur uit te breiden tot 25 jaar.",
       "aanbiedingen": [
-        {
-          "winkel": "Zonnepanelen-voordelig",
-          "prijs_eur": 92,
-          "url": "https://www.zonnepanelen-voordelig.nl/contents/nl/p58871_REC-420wp-Alpha-Pure-Black-pv-paneel.html",
-          "datum": null
-        },
         {
           "winkel": "Zonnepaneelcentrum",
           "prijs_eur": 120,
@@ -374,12 +362,6 @@
           "winkel": "Feenstra",
           "prijs_eur": 85,
           "url": "https://www.feenstra.com/shop/denim-n-type-topcon-440-wp-all-black-glas-glas-bifacial.html",
-          "datum": null
-        },
-        {
-          "winkel": "UwSolarInstallatieShop",
-          "prijs_eur": 88,
-          "url": "https://uwsolarinstallatieshop.nl/home/251-denim-n-type-topcon-440-wp-all-black.html",
           "datum": null
         },
         {
@@ -467,14 +449,7 @@
       "prijs_omvat": "richtprijs per paneel, 0% btw bij levering voor een woning, excl. omvormer en installatie",
       "product_url": "https://www.ulicasolar.com/",
       "opmerkingen": "Vaak het goedkoopste glas-glas paneel bij Nederlandse webshops en groothandels. Minder bekende naam, maar al jaren breed leverbaar; ideaal als de laagste totaalprijs voorop staat.",
-      "aanbiedingen": [
-        {
-          "winkel": "Energiemagazijn",
-          "prijs_eur": 55,
-          "url": "https://energiemagazijn.nl/zonnepanelen/216-ulica-solar-ul-430m-topcon-430wp-full-black-zonnepaneel.html",
-          "datum": null
-        }
-      ]
+      "aanbiedingen": []
     }
   ]
 }
