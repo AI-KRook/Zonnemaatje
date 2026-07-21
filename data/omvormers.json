@@ -1,6 +1,6 @@
 {
   "laatst_bijgewerkt": "2026-07-21",
-  "toelichting": "Richtprijzen zijn indicatief, gelden voor de genoemde gangbare variant (excl. installatie) en verschillen sterk per vermogen en uitvoering. Specificaties en integraties komen uit fabrikantendocumentatie en openbare bronnen; controleer voor aankoop de actuele datasheet en garantievoorwaarden. Koppelingsinformatie (batterij, Home Assistant) kan per firmwareversie veranderen. Homey-informatie is gebaseerd op de Homey App Store; controleer vóór aankoop of de app jouw model ondersteunt.",
+  "toelichting": "Richtprijzen zijn indicatief, gelden voor de genoemde gangbare variant (excl. installatie) en verschillen sterk per vermogen en uitvoering. Winkelprijzen betreffen de losse omvormer van de genoemde variant; sommige winkels tonen prijzen exclusief btw en accessoires (gateway, meter, optimizers) komen er soms nog bij. Specificaties en integraties komen uit fabrikantendocumentatie en openbare bronnen; controleer voor aankoop de actuele datasheet en garantievoorwaarden. Koppelingsinformatie (batterij, Home Assistant) kan per firmwareversie veranderen. Homey-informatie is gebaseerd op de Homey App Store; controleer vóór aankoop of de app jouw model ondersteunt.",
   "omvormers": [
     {
       "id": "enphase-iq8",
@@ -31,7 +31,28 @@
       "homey": {
         "status": "deels",
         "tekst": "Community-app voor Enphase (Envoy) in de Homey App Store; opwek ook zichtbaar via de Homey Energy Dongle (P1)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Zonnige Winkel",
+          "prijs_eur": 109,
+          "url": "https://zonnigewinkel.nl/product/enphase-micro-omvormer-iq8hc/",
+          "datum": "2026-07-21"
+        },
+        {
+          "winkel": "Winkelman Zonnepanelen",
+          "prijs_eur": 109,
+          "url": "https://www.winkelman-zonnepanelen.nl/enphase-iq8-hc-micro-omvormer.html",
+          "datum": "2026-07-21"
+        },
+        {
+          "winkel": "Solar Bouwmarkt",
+          "prijs_eur": 119,
+          "url": "https://www.solar-bouwmarkt.nl/iq8hc-micro-omvormer.html",
+          "datum": "2026-07-21"
+        }
+      ],
+      "prijs_datum": "2026-07-21"
     },
     {
       "id": "apsystems-ds3",
@@ -62,7 +83,22 @@
       "homey": {
         "status": "nee",
         "tekst": "Geen bekende Homey-app; de opwek is wel zichtbaar in Homey Energy via de Homey Energy Dongle op de slimme meter (P1)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Simply Solar",
+          "prijs_eur": 149,
+          "url": "https://www.simply-solar.nl/products/aps-ds3-microinverter",
+          "datum": "2026-07-21"
+        },
+        {
+          "winkel": "J en M Zonnepanelen",
+          "prijs_eur": 145,
+          "url": "https://www.jenm-zonnepanelen.nl/nl/apsystems-ds3-micro-omvormer.html",
+          "datum": "2026-07-21"
+        }
+      ],
+      "prijs_datum": "2026-07-21"
     },
     {
       "id": "solaredge-home-wave",
@@ -73,7 +109,7 @@
       "vermogen_bereik": "2,2 - 10 kW",
       "voorbeeld_variant": "SE5000H (5 kW) + optimizers",
       "richtprijs_eur": 1250,
-      "prijs_toelichting": "omvormer 5 kW circa € 1.100 + circa € 60 per paneel aan optimizers",
+      "prijs_toelichting": "omvormer 5 kW circa € 1.100 + circa € 60 per paneel aan optimizers; winkelprijzen betreffen alleen de omvormer",
       "batterij": {
         "status": "ja",
         "tekst": "Eigen ecosysteem: SolarEdge Home Battery (DC-gekoppeld) op de hybride varianten; werkt niet met batterijen van andere merken aan DC-zijde."
@@ -93,7 +129,15 @@
       "homey": {
         "status": "ja",
         "tekst": "SolarEdge-app in de Homey App Store (koppelt via de cloud-API)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Zonnige Winkel",
+          "prijs_eur": 1050,
+          "url": "https://zonnigewinkel.nl/product/solaredge-home-wave-omvormer-se5000h/",
+          "datum": null
+        }
+      ]
     },
     {
       "id": "sma-tripower-smart-energy",
@@ -124,7 +168,21 @@
       "homey": {
         "status": "deels",
         "tekst": "Community-app voor SMA in de Homey App Store (lokaal via het netwerk)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Memodo",
+          "prijs_eur": 1750,
+          "url": "https://www.memodo.nl/omvormers/sma/7179/sma-hybride-sunny-tripower-5.0-smart-energy",
+          "datum": null
+        },
+        {
+          "winkel": "Volt-shop",
+          "prijs_eur": 1800,
+          "url": "https://volt-shop.nl/product/sma-sunny-tripower-5-0-wifi-smart-energy-hybride-omvormer/",
+          "datum": null
+        }
+      ]
     },
     {
       "id": "fronius-gen24",
@@ -155,7 +213,16 @@
       "homey": {
         "status": "deels",
         "tekst": "Community-app voor Fronius in de Homey App Store (lokale Solar API)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Zonnepanelen-voordelig",
+          "prijs_eur": 1415,
+          "url": "https://www.zonnepanelen-voordelig.nl/contents/nl/p58724_Fronius-Primo-GEN24-Plus-5.0-omvormer.html",
+          "datum": "2026-07-21"
+        }
+      ],
+      "prijs_datum": "2026-07-21"
     },
     {
       "id": "goodwe-et",
@@ -186,7 +253,15 @@
       "homey": {
         "status": "deels",
         "tekst": "Community-app voor GoodWe (SEMS) in de Homey App Store."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Zonnige Winkel",
+          "prijs_eur": 1100,
+          "url": "https://zonnigewinkel.nl/product/goodwe-5kn-et-hybride/",
+          "datum": null
+        }
+      ]
     },
     {
       "id": "huawei-sun2000",
@@ -217,7 +292,28 @@
       "homey": {
         "status": "nee",
         "tekst": "Geen bekende Homey-app; de opwek is wel zichtbaar in Homey Energy via de Homey Energy Dongle op de slimme meter (P1)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Stralend Groen",
+          "prijs_eur": 625,
+          "url": "https://www.stralendgroen.nl/product/huawei-sun2000-5ktl-l1/",
+          "datum": "2026-07-21"
+        },
+        {
+          "winkel": "Groothandel Solar",
+          "prijs_eur": 1000,
+          "url": "https://www.groothandelsolar.com/omvormers/string-omvormers/huawei/huawai-sun2000-5ktl-l1",
+          "datum": "2026-07-21"
+        },
+        {
+          "winkel": "SolarNRG",
+          "prijs_eur": 842,
+          "url": "https://solarnrg.shop/omvormers/huawei-sun2000-5ktl-l1/",
+          "datum": "2026-07-21"
+        }
+      ],
+      "prijs_datum": "2026-07-21"
     },
     {
       "id": "growatt-min-xh",
@@ -248,7 +344,28 @@
       "homey": {
         "status": "deels",
         "tekst": "Community-app voor Growatt in de Homey App Store (via de cloud)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Stralend Groen",
+          "prijs_eur": 540,
+          "url": "https://www.stralendgroen.nl/en/product/growatt-min-5000tl-xh-hybrid/",
+          "datum": "2026-07-21"
+        },
+        {
+          "winkel": "Winkelman Zonnepanelen",
+          "prijs_eur": 546,
+          "url": "https://www.winkelman-zonnepanelen.nl/growatt-min-5000tl-xh-1-fase-omvormer-hybride.html",
+          "datum": "2026-07-21"
+        },
+        {
+          "winkel": "WarmteBeheer",
+          "prijs_eur": 620,
+          "url": "https://www.warmtebeheer.nl/growatt-min-5000tl-xh-hybrid-ready-omvormer-5000w-2mppt-gratis-wifi-module.html",
+          "datum": "2026-07-21"
+        }
+      ],
+      "prijs_datum": "2026-07-21"
     },
     {
       "id": "solis-s6-hybride",
@@ -279,7 +396,22 @@
       "homey": {
         "status": "nee",
         "tekst": "Geen bekende Homey-app; de opwek is wel zichtbaar in Homey Energy via de Homey Energy Dongle op de slimme meter (P1)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Zonnige Winkel",
+          "prijs_eur": 799,
+          "url": "https://zonnigewinkel.nl/product/solis-omvormer-hybride-s6-eh1p5klpl-1-fase/",
+          "datum": "2026-07-21"
+        },
+        {
+          "winkel": "VDH Power",
+          "prijs_eur": 900,
+          "url": "https://vdhpower.nl/winkel/omvormers/solis-s6-5kw-1-fase-hybrid-2-mppt-low-voltage",
+          "datum": null
+        }
+      ],
+      "prijs_datum": "2026-07-21"
     },
     {
       "id": "sungrow-sh",
@@ -310,7 +442,22 @@
       "homey": {
         "status": "nee",
         "tekst": "Geen bekende Homey-app; de opwek is wel zichtbaar in Homey Energy via de Homey Energy Dongle op de slimme meter (P1)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "CV Totaal",
+          "prijs_eur": 950,
+          "url": "https://www.cvtotaal.nl/sungrow-sh5-0rt-v112-3-fase-hybride-omvormer-5000w.html",
+          "datum": "2026-07-21"
+        },
+        {
+          "winkel": "Pavento Solar",
+          "prijs_eur": 1050,
+          "url": "https://paventosolar.nl/product/sungrow-sh5-0rt/",
+          "datum": null
+        }
+      ],
+      "prijs_datum": "2026-07-21"
     },
     {
       "id": "deye-sg04lp1",
@@ -341,7 +488,16 @@
       "homey": {
         "status": "nee",
         "tekst": "Geen bekende Homey-app; de opwek is wel zichtbaar in Homey Energy via de Homey Energy Dongle op de slimme meter (P1)."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Eigen Stroom Opslaan",
+          "prijs_eur": 1295,
+          "url": "https://eigenstroomopslaan.nl/product/deye-inverter-sun-5k-sg03-lp1eu/",
+          "datum": "2026-07-21"
+        }
+      ],
+      "prijs_datum": "2026-07-21"
     },
     {
       "id": "victron-multiplus2",
@@ -372,7 +528,16 @@
       "homey": {
         "status": "deels",
         "tekst": "Community-app voor Victron (GX) in de Homey App Store, lokaal via het netwerk."
-      }
+      },
+      "aanbiedingen": [
+        {
+          "winkel": "Acculaders.nl",
+          "prijs_eur": 670,
+          "url": "https://www.acculaders.nl/victron-multiplus-ii-48-5000-70-50-230v.html",
+          "datum": "2026-07-21"
+        }
+      ],
+      "prijs_datum": "2026-07-21"
     }
   ]
 }
