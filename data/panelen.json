@@ -34,15 +34,15 @@
         },
         {
           "winkel": "GroothandelSolar",
-          "prijs_eur": 105,
+          "prijs_eur": 140,
           "url": "https://www.groothandelsolar.com/zonnepanelen-kopen/aiko-solar-zonnepaneel/aiko-455wp-gen2-glas-glas-all-black",
-          "datum": null
+          "datum": "2026-07-21"
         },
         {
           "winkel": "Just Solar",
-          "prijs_eur": 109,
+          "prijs_eur": 120,
           "url": "https://justsolar.store/products/aiko-455wp-neostar-2s-gen2-glas-glas-all-black",
-          "datum": null
+          "datum": "2026-07-21"
         }
       ]
     },
@@ -55,7 +55,7 @@
       "uitvoering": "glas-folie",
       "full_black": true,
       "bifaciaal": false,
-      "rendement_pct": 22.0,
+      "rendement_pct": 22,
       "afmetingen_mm": "1762 × 1134 × 30",
       "gewicht_kg": 22,
       "garantie_product_jaar": 25,
@@ -71,9 +71,9 @@
       "aanbiedingen": [
         {
           "winkel": "SolarKopen",
-          "prijs_eur": 70,
+          "prijs_eur": 55,
           "url": "https://solarkopen.nl/products/jinko-440wp-mono-full-black-tiger-neo-n-type-zonnepaneel",
-          "datum": null
+          "datum": "2026-07-21"
         },
         {
           "winkel": "GroothandelSolar",
@@ -98,7 +98,7 @@
       "uitvoering": "glas-glas",
       "full_black": true,
       "bifaciaal": true,
-      "rendement_pct": 22.0,
+      "rendement_pct": 22,
       "afmetingen_mm": "1762 × 1134 × 30",
       "gewicht_kg": 22,
       "garantie_product_jaar": 25,
@@ -114,9 +114,9 @@
       "aanbiedingen": [
         {
           "winkel": "SolarKopen",
-          "prijs_eur": 65,
+          "prijs_eur": 75,
           "url": "https://solarkopen.nl/products/ja-solar-440wp-n-type-glas-glas-full-black-zonnepaneel",
-          "datum": null
+          "datum": "2026-07-21"
         }
       ]
     },
@@ -145,9 +145,9 @@
       "aanbiedingen": [
         {
           "winkel": "Stralend Groen",
-          "prijs_eur": 80,
+          "prijs_eur": 65,
           "url": "https://www.stralendgroen.nl/en/product/longi-solar-hi-mo6-all-black-440wp/",
-          "datum": null
+          "datum": "2026-07-21"
         }
       ]
     },
@@ -176,21 +176,21 @@
       "aanbiedingen": [
         {
           "winkel": "Energiewaaier",
-          "prijs_eur": 69,
+          "prijs_eur": 125,
           "url": "https://energiewaaier.nl/winkel/trina-solar-vertex-s-dual-glass-all-black-450wp/",
-          "datum": null
+          "datum": "2026-07-21"
         },
         {
           "winkel": "deBaKo",
-          "prijs_eur": 74,
+          "prijs_eur": 90,
           "url": "https://debako.nl/product/trina-vertex-s-n-type-dubbel-glas-450w-triple-cut-1500v-all-black-zonnepaneel/",
-          "datum": null
+          "datum": "2026-07-21"
         },
         {
           "winkel": "Stralend Groen",
-          "prijs_eur": 75,
+          "prijs_eur": 64,
           "url": "https://www.stralendgroen.nl/en/product/trina-solar-vertex-s-dual-glass-all-black-450wp/",
-          "datum": null
+          "datum": "2026-07-21"
         }
       ]
     },
@@ -225,9 +225,9 @@
         },
         {
           "winkel": "SolarKopen",
-          "prijs_eur": 80,
+          "prijs_eur": 78,
           "url": "https://solarkopen.nl/products/dmegc-450wp-glas-glas-full-black-zonnepaneel",
-          "datum": null
+          "datum": "2026-07-21"
         }
       ]
     },
@@ -256,9 +256,9 @@
       "aanbiedingen": [
         {
           "winkel": "Off Grid Power Station",
-          "prijs_eur": 68,
+          "prijs_eur": 119,
           "url": "https://offgridpowerstation.eu/product/canadian-solar-435wp-full-black-frame/",
-          "datum": null
+          "datum": "2026-07-21"
         }
       ]
     },
@@ -276,8 +276,8 @@
       "gewicht_kg": 20.5,
       "garantie_product_jaar": 20,
       "garantie_vermogen_jaar": 25,
-      "vermogen_behoud_eind_pct": 92.0,
-      "vermogen_behoud_25j_pct": 92.0,
+      "vermogen_behoud_eind_pct": 92,
+      "vermogen_behoud_25j_pct": 92,
       "temp_coefficient": -0.24,
       "richtprijs_eur": 110,
       "prijs_datum": "2026-07-21",
@@ -293,9 +293,9 @@
         },
         {
           "winkel": "Zonnepaneelcentrum",
-          "prijs_eur": 110,
+          "prijs_eur": 120,
           "url": "https://zonnepaneelcentrum.nl/product/rec-alpha-pure-2-400-430-w/",
-          "datum": null
+          "datum": "2026-07-21"
         }
       ]
     },
@@ -314,7 +314,7 @@
       "garantie_product_jaar": 40,
       "garantie_vermogen_jaar": 40,
       "vermogen_behoud_eind_pct": 88.3,
-      "vermogen_behoud_25j_pct": 92.0,
+      "vermogen_behoud_25j_pct": 92,
       "temp_coefficient": -0.27,
       "richtprijs_eur": 230,
       "prijs_datum": "2026-07-21",
@@ -356,7 +356,7 @@
       "uitvoering": "glas-glas",
       "full_black": true,
       "bifaciaal": true,
-      "rendement_pct": 22.0,
+      "rendement_pct": 22,
       "afmetingen_mm": "1762 × 1134 × 30",
       "gewicht_kg": 21.5,
       "garantie_product_jaar": 30,
@@ -399,7 +399,7 @@
       "uitvoering": "glas-folie",
       "full_black": true,
       "bifaciaal": false,
-      "rendement_pct": 22.0,
+      "rendement_pct": 22,
       "afmetingen_mm": "1762 × 1134 × 30",
       "gewicht_kg": 21.5,
       "garantie_product_jaar": 15,
